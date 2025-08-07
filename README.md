@@ -19,3 +19,4 @@ To deepen into this topic, futures steps include:
 - Gathering information about deportees location and work status in Ecuador.
 - Finding interviews with people tho have been deported back to Ecuador.
 
+This project was developed as part of the LEDE Program, at Columbia Journalism School.
