@@ -12,7 +12,7 @@ The key findings are:
 - Most of the deportees are men, between 20 and 40 years old.
 - Ecuadorians are the top nationality for arrests in the states of New York and New Jersey.
 
-The analysis can be found in the Jupyter Notebook in this repository.
+The analysis can be found in the Jupyter Notebook in this repository, and the published version of this findings can be found [in this page](https://tefaceli.github.io/deportation-ecuadorians/), that includes data visualization in D3 and ai2html.
 
 To deepen into this topic, futures steps include:
 - Gathering information about flight carring deportees from Ecuador's Ministry of Foreign Affairs.
