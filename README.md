@@ -1,6 +1,6 @@
 # The deported Ecuadorians
 
-This repository includes the analysis of the data on arrests and deportations from the US focusing in Ecuadorian nationals. The information for this analysis is the one obtained by the [Deportation Data Project[(https://deportationdata.org/)], from the University of Berkley, California, directly from ICE through a FOIA request.
+This repository includes the analysis of the data on arrests and deportations from the US focusing in Ecuadorian nationals. The information for this analysis is the one obtained by the [Deportation Data Project](https://deportationdata.org/), from the University of Berkley, California, directly from ICE through a FOIA request.
 
 This project seeks to analyse the trend in arrests and deportations of Ecuadorian people in the US, since in the past three to four years there has been an increase in irregular inmigration through the Mexican border.
 
